@@ -1,14 +1,14 @@
 <h1 align="center">Oi 👋, Sou o Wagner</h1>
 <h3 align="center">Oi, tem alguem aqui?</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zantsurocks" alt="zantsurocks" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zantsurocks&theme=juicyfresh&column=7&no-frame=true" alt="zantsurocks" /></a> </p>
 
-- 📫 Contate-me em **contato@zantsu.rocks**
+- 📫 Contate-me em <a href='mailto:contato@zantsu.rocks'>**contato@zantsu.rocks**</a>
 
 <h3 align="left">Você tambem me encontra em:</h3>
 <p align="left">
-<a href="https://twitter.com/wagner_zyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wagner_zyo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/wagner-bitencourt-rebello-70b93399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wagner-bitencourt-rebello-70b93399" height="30" width="40" /></a>
+<a href="https://twitter.com/wagner_zyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wagner_zyo" height="30" width="40" /></a>
 <a href="https://instagram.com/wagner_zyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wagner_zyo" height="30" width="40" /></a>
 </p>
 
@@ -18,6 +18,6 @@
 <h3 align="left">Me pague um "café" em:</h3>
 <p><a href="https://www.buymeacoffee.com/zantsurocks"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zantsurocks" /></a><a href="https://ko-fi.com/zantsurocks"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zantsurocks" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zantsurocks&show_icons=true&locale=en&layout=compact" alt="zantsurocks" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zantsurocks&show_icons=true&locale=en&layout=compact&count_private=true&theme=midnight-purple" alt="zantsurocks" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zantsurocks&show_icons=true&locale=en" alt="zantsurocks" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zantsurocks&show_icons=true&locale=en&count_private=true&theme=midnight-purple" alt="zantsurocks" /></p>

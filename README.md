@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Sou o Wagner</h1>
 <h3 align="center">Oi, tem alguem aqui?</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zantsurocks&theme=juicyfresh&column=7&no-frame=true" alt="zantsurocks" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=ZantsuRocks&theme=juicyfresh&column=7&no-frame=true" alt="zantsurocks" /></a> </p>
 
 - 📫 Contate-me em <a href='mailto:contato@zantsu.rocks'>**contato@zantsu.rocks**</a>
 
